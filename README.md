@@ -18,13 +18,15 @@ Whether you're building a personal website, launching a SaaS product, or creatin
 
 | Prompt | Description |
 |--------|-------------|
-| [Technical SEO, AEO & GEO Audit](./prompts/01-technical-seo-audit.md) | Comprehensive technical SEO analysis and recommendations. |
-| [SPA Prerendering](./prompts/02-spa-prerendering.md) | Generate static HTML for existing and future public pages. |
-| [Metadata & Structured Data](./prompts/03-metadata-structured-data.md) | Optimize metadata and implement appropriate structured data. |
-| [Sitemaps & Robots.txt](./prompts/04-sitemap-robots.md) | Improve crawling and search engine discovery. |
-| [Performance Optimization](./prompts/05-performance-optimization.md) | Identify and improve Core Web Vitals and page performance. |
+| [SPA Prerendering](./prompts/spa-prerendering.md) | Improve crawlability by generating complete HTML for existing and future public pages. |
+| [SEO Metadata & Canonicals](./prompts/seo-metadata-canonicals.md) | Audit and optimize titles, meta descriptions, and canonical URLs for existing and future pages. |
+| [Image Optimization](./prompts/image-optimization.md) | Optimize images, responsive delivery, and loading performance automatically. |
+| [Accessibility](./prompts/accessibility.md) | Improve semantic HTML, keyboard navigation, screen reader support, and accessibility. |
+| [Open Graph](./prompts/open-graph.md) | Optimize social sharing metadata, preview images, and Open Graph tags. |
+| [Structured Data](./prompts/structured-data.md) | Implement and validate Schema.org structured data for eligible pages. |
+| [Crawlability & Indexing](./prompts/crawlability-indexing.md) | Optimize XML sitemaps, robots.txt, internal links, and search engine indexing. |
+| [Core Web Vitals](./prompts/core-web-vitals.md) | Improve LCP, INP, CLS, page speed, and mobile performance. |
 
-*Additional prompts and resources may be added over time.*
 
 ## Recommended SEO Tools
 
@@ -36,6 +38,7 @@ Whether you're building a personal website, launching a SaaS product, or creatin
 | [Google Rich Results Test](https://search.google.com/test/rich-results) | Validate structured data eligible for Google rich results. |
 | [Ahrefs SEO Toolbar](https://chromewebstore.google.com/detail/ahrefs-seo-toolbar/hgmoccdbjhknikckedaaebbpdeebhiei) | Chrome extension for auditing on-page SEO, metadata, canonical tags, indexability, redirects, and broken links. |
 | [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) | Crawl websites and identify technical SEO issues. |
+| [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. |
 
 ## Understanding SEO, AEO & GEO
 
@@ -73,9 +76,13 @@ Contributions and pull requests are welcome.
 
 ## Disclaimer
 
-These prompts provide a starting point for technical optimization. Results depend on your application's architecture, content, and configuration.
+These prompts are provided for educational and informational purposes only, on an "as-is" basis, without warranties or guarantees of any kind.
 
-Always validate changes before deploying to production. No optimization guarantees search rankings, indexing, or inclusion in AI-generated answers.
+Results vary depending on your application's architecture, configuration, and content. AI-generated changes may introduce errors, security vulnerabilities, performance issues, or unintended functionality changes.
+
+We recommend using Plan Mode first, reviewing all proposed changes, testing thoroughly, and maintaining backups or version control before deploying to production. You are responsible for reviewing, validating, and approving any changes made to your application.
+
+Use these prompts at your own risk. No results are guaranteed, including improvements in search rankings, indexing, website performance, accessibility compliance, or visibility in AI-generated answers.
 
 ---
 
