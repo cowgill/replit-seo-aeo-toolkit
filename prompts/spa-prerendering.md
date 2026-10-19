@@ -1,4 +1,4 @@
-## SPA Prerendering: Optimize React + Vite for SEO, AEO & GEO
+# SPA Prerendering: Optimize React + Vite for SEO, AEO & GEO
 
 Optimize this website's rendering architecture for SEO,
 AEO, GEO, and initial page-load performance.
