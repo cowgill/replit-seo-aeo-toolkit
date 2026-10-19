@@ -37,6 +37,7 @@ Whether you're building a personal website, launching a SaaS product, or creatin
 | [Chrome UX Report (CrUX)](https://developer.chrome.com/docs/crux) | Monitor real-world Core Web Vitals and historical performance trends using Chrome user data. |
 | [Google Rich Results Test](https://search.google.com/test/rich-results) | Validate structured data eligible for Google rich results. |
 | [Ahrefs SEO Toolbar](https://chromewebstore.google.com/detail/ahrefs-seo-toolbar/hgmoccdbjhknikckedaaebbpdeebhiei) | Chrome extension for auditing on-page SEO, metadata, canonical tags, indexability, redirects, and broken links. |
+| [OpenGraph.to](https://www.opengraph.to/) | Preview and validate Open Graph metadata and social sharing images across platforms. |
 | [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) | Crawl websites and identify technical SEO issues. |
 | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. |
 
